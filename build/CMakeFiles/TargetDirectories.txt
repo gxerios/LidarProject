@@ -1,0 +1,6 @@
+/home/gelonch/Documents/WRK/informatic/LidarProject/build/CMakeFiles/robot.dir
+/home/gelonch/Documents/WRK/informatic/LidarProject/build/CMakeFiles/lidar.dir
+/home/gelonch/Documents/WRK/informatic/LidarProject/build/CMakeFiles/map.dir
+/home/gelonch/Documents/WRK/informatic/LidarProject/build/CMakeFiles/main.dir
+/home/gelonch/Documents/WRK/informatic/LidarProject/build/CMakeFiles/edit_cache.dir
+/home/gelonch/Documents/WRK/informatic/LidarProject/build/CMakeFiles/rebuild_cache.dir
