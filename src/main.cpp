@@ -23,8 +23,14 @@ int main(int argv, char**argc){
     ////////////END TESTING LIDAR CLASS///////////////
 
     ////////////STAR TESTING MAP CLASS////////////////
-    Map map(8);
-     std::cout << map.Display() << std::endl;
+    Map map;
+    map.Display();
+    std::cout << "------------" << std::endl;
+    map.UpdateTile(1,2,1);
+    map.Display();
+    std::cout << map.GetTile(1,2) << std::endl;
+    std::cout << map.GetTile(1,1) << std::endl;
+
     ////////////END TESTING MAP CLASS/////////////////
     std::cout << "################# EXIT LIDAR PROJECT ################" << std::endl;
     return EXIT_SUCCESS;
