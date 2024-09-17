@@ -1,4 +1,5 @@
 #include <iostream>
+#include <opencv2/opencv.hpp>
 
 #include "defines.hpp"
 #include "robot.hpp"
